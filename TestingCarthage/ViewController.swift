@@ -19,6 +19,7 @@ class ViewController: UIViewController {
                 textField.placeholder = "Name"
                 textField.title = "Your full name"
                 self.view.addSubview(textField)
+                print("added this line for test")
     }
 
 
