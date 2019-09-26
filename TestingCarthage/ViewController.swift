@@ -24,6 +24,7 @@ class ViewController: UIViewController {
                 textField2.placeholder = "City"
                 textField2.title = "Your city name"
                 self.view.addSubview(textField2)
+                print("Adding some data in test1")
     }
 
 
